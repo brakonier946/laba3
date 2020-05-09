@@ -12,6 +12,7 @@ class work
 {
 private:
 	string name_file = "data.txt";
+	int countWritedCharacter = 100;
 public:
 	myStack<univer> _data;
 
